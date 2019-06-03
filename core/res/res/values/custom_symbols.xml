@@ -63,7 +63,4 @@
 
   <java-symbol type="string" name="config_comboNetworkLocationProvider" />
 
-  <!-- FoD -->
-  <java-symbol type="bool" name="config_needCustomFODView" />
-  <java-symbol type="bool" name="config_usesOnePlusFOD" />
 </resources>
